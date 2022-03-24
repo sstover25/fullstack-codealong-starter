@@ -1,0 +1,11 @@
+{
+  "name": "fullstack-codealong-starter",
+  "version": "1.0.0",
+  "description": "File structure and assets for Fullstack Codealong",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A. Haldy",
+  "license": "ISC"
+}
